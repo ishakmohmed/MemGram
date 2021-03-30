@@ -17,10 +17,10 @@ It is a social media web app where you can post your memories with pics. You can
 * React.js
 * React Context API
 * React Hooks
-* Material-UI
-* Axios (library to make HTTP requests)
 * Redux
 * Redux-Thunk
+* Material-UI
+* Axios (library to make HTTP requests)
 * React-File-Base-64 (to encode image to base64 url)
 
 [6] How to Run The Project: If you want to see the live, deployed version, head over to this link: https://memgram.netlify.app/ If you want to run the source code locally on your machine, make sure Node.js and MongoDB is installed on your machine. Install all frontend and backend dependencies by typing "npm i" on terminal (client and server folders respectively). Finally, execute "npm start" on terminal (client and server folders respectively) and you'll see MemGram app launched on your favorite web browser.
