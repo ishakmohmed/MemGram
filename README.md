@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/52876913/113041322-6643b000-91cc-11eb-898e-ded29e2f80f5.png)
+
 MemGram is a project that I was super excited to build because I had just learned Redux a couple of days before creating this project and wanted to build something with it.
 It is a social media web app where you can post your memories with pics. You can like posts, edit, or delete them.
 
