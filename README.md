@@ -1,4 +1,4 @@
-MemGram is a project that I was super excited to build because I had just learned Redux a couple of days before creating this project.
+MemGram is a project that I was super excited to build because I had just learned Redux a couple of days before creating this project and wanted to build something with it.
 It is a social media web app where you can post your memories with pics. You can like posts, edit, or delete them.
 
 [1] See Live Version Immediately: https://memgram.netlify.app/
